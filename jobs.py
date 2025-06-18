@@ -1,6 +1,6 @@
 import praw
 
-reddit =praw.Reddit(
+reddit = praw.Reddit(
     client_id ='je2YPZNc5P9C-ha4GnYF8g',
     client_secret = 'quejvpgbawWuI5TunnVR1E6Ehg37WA',
     user_agent ='Personal by u/Few-Yogurtcloset4571',
